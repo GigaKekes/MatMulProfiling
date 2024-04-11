@@ -4,7 +4,7 @@
 
 
 
-#define ARRAY_SIZE 150
+#define ARRAY_SIZE 500
 
 void generateRandomArray(int array[ARRAY_SIZE][ARRAY_SIZE]) {
     std::random_device rd;
